@@ -1,0 +1,73 @@
+body{
+    background-color: #13293d;
+    color: white;
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    background-color: #3b4aad;
+}
+
+nav{
+    font-family:"Arial Black", Gadget, sans-serif;
+    width: 100%;
+}
+a:link {
+    color:white !important;
+}
+a:hover {
+    background-color: #18435a !important;
+}
+.active {
+    color:white;
+    background-color: #18435a !important;    
+}
+a:visited {
+    color:white;
+}
+
+footer {
+    bottom: 0;
+    background-color: #3b4aad;
+    width: 100%;
+    height: auto;
+  }
+
+  .max-width{
+      max-width: 1200px;
+  }
+
+  .form-width{
+      max-width: 800px;
+  }
+  .mb-50px{
+      margin-bottom: 50px;
+  }
+
+  .violet-blue{
+      background-color: #3b4aad;
+  }
+  .japanese-indigo{
+      background-color: #18435a;
+  }
+  .space-cadet{
+      background-color: #16324f;
+  }
+  .yankees-blue{
+      background-color: #13293d;
+  }
+  .transparent{
+      background-color: transparent !important;
+  }
+  .t-celestial-blue{
+      color: #3e92cc;
+  }
+  .t-white{
+      color: white;
+  }
+  .pt-50px{
+      padding-top: 65px;
+  }
